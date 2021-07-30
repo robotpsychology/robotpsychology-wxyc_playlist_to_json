@@ -1,0 +1,254 @@
+{
+    "0": {
+        "request": false,
+        "artists": null,
+        "song": "Bj\u00c3\u00b6rk",
+        "album": "It's Oh So Quiet",
+        "label": "Post"
+    },
+    "1": {
+        "request": false,
+        "artists": null,
+        "song": "Mick Jenkins",
+        "album": "Perception",
+        "label": "Wave[s]"
+    },
+    "2": {
+        "request": true,
+        "artists": null,
+        "song": "Rachel Kiel",
+        "album": "Watch Yourself",
+        "label": "Dream Logic"
+    },
+    "3": {
+        "request": true,
+        "artists": null,
+        "song": "Henri Salvador",
+        "album": "J'aime tes g'noux",
+        "label": "Homme Studio 1970-1975"
+    },
+    "4": {
+        "request": true,
+        "artists": null,
+        "song": "Mark Fry",
+        "album": "Roses For Columbus",
+        "label": "Dreaming With Alice"
+    },
+    "5": {
+        "request": false,
+        "artists": null,
+        "song": "Tim Buckley",
+        "album": "Strange Feelin",
+        "label": "Happy Sad"
+    },
+    "6": {
+        "request": false,
+        "artists": null,
+        "song": "Yussef Kamaal",
+        "album": "Strings of Light",
+        "label": "Black Focus"
+    },
+    "7": {
+        "request": false,
+        "artists": null,
+        "song": "Esperanza Spalding",
+        "album": "Public Trance It",
+        "label": "Exposure"
+    },
+    "8": {
+        "request": false,
+        "artists": null,
+        "song": "Faudel",
+        "album": "Omri",
+        "label": "Baida"
+    },
+    "9": {
+        "request": true,
+        "artists": null,
+        "song": "Willie Dunn",
+        "album": "I Pity The Country",
+        "label": "Creation Never Sleeps, Creation Never Dies"
+    },
+    "10": {
+        "request": true,
+        "artists": null,
+        "song": "Lois Short",
+        "album": "Little Birdie",
+        "label": "Alan Lomax's American Patchwork"
+    },
+    "11": {
+        "request": false,
+        "artists": null,
+        "song": "Faudel",
+        "album": "Tellement n'Brick (Version Hip Hop)",
+        "label": "Baida"
+    },
+    "12": {
+        "request": false,
+        "artists": null,
+        "song": "Oddisee",
+        "album": "Belong to the World",
+        "label": "The Good Fight"
+    },
+    "13": {
+        "request": false,
+        "artists": null,
+        "song": "Lee Field & The Expressions",
+        "album": "Love Prisoner",
+        "label": "It Rains Love"
+    },
+    "14": {
+        "request": true,
+        "artists": null,
+        "song": "Adiss Harmandyan",
+        "album": "Ors Kez Hed Antzav",
+        "label": "Silk Road: Journey Of The Armenian Diaspora 1971-1982"
+    },
+    "15": {
+        "request": false,
+        "artists": null,
+        "song": "Big Thief",
+        "album": "Century",
+        "label": "U.F.O.F."
+    },
+    "16": {
+        "request": false,
+        "artists": null,
+        "song": "Christian Scott aTunde Adjuah",
+        "album": "Rise Again (Allmos Remix)",
+        "label": "Ruler Rebel"
+    },
+    "17": {
+        "request": true,
+        "artists": null,
+        "song": "The Ibrahim Khalil Shibab Quintet",
+        "album": "The Birds",
+        "label": "Spring"
+    },
+    "18": {
+        "request": false,
+        "artists": null,
+        "song": "Devendra Barnhart",
+        "album": "Quedate Luna",
+        "label": "Cripple Crow"
+    },
+    "19": {
+        "request": false,
+        "artists": null,
+        "song": "Gillian Welch",
+        "album": "Scarlet Town",
+        "label": "The Harrow & the Harvest"
+    },
+    "20": {
+        "request": false,
+        "artists": null,
+        "song": "Adrienne Lenker",
+        "album": "Not a Lot, Just Forever",
+        "label": "songs"
+    },
+    "21": {
+        "request": true,
+        "artists": null,
+        "song": "Sola",
+        "album": "He Bajado Al Infierno",
+        "label": "S/T"
+    },
+    "22": {
+        "request": true,
+        "artists": null,
+        "song": "Linda Smith",
+        "album": "Wandering You Know",
+        "label": "Till Another Time: 1988-1996"
+    },
+    "23": {
+        "request": true,
+        "artists": null,
+        "song": "Cactus Lee",
+        "album": "Feeling Light",
+        "label": "Texas Music Forever"
+    },
+    "24": {
+        "request": false,
+        "artists": null,
+        "song": "Forest",
+        "album": "Graveyard",
+        "label": "Gather in the Mushrooms: The British Acid Folk Underground 1968-1974"
+    },
+    "25": {
+        "request": false,
+        "artists": null,
+        "song": "Kamasi Washington",
+        "album": "Truth",
+        "label": "Harmony of Difference"
+    },
+    "26": {
+        "request": true,
+        "artists": null,
+        "song": "Sunburned Hand of the Man",
+        "album": "Prix Fixe",
+        "label": "Pick A Day to Die"
+    },
+    "27": {
+        "request": true,
+        "artists": null,
+        "song": "Perfect Angels",
+        "album": "The Moat",
+        "label": "Exit From The Ultra-World"
+    },
+    "28": {
+        "request": false,
+        "artists": null,
+        "song": "The Spiders",
+        "album": "Dynamite",
+        "label": "GS I Love You: Japanese Garage Bands of the 1960s"
+    },
+    "29": {
+        "request": true,
+        "artists": null,
+        "song": "Arlo Parks",
+        "album": "Eugene",
+        "label": "Collapsed In Sunbeams"
+    },
+    "30": {
+        "request": false,
+        "artists": null,
+        "song": "The Funkees",
+        "album": "Life",
+        "label": "Dancing Time"
+    },
+    "31": {
+        "request": true,
+        "artists": null,
+        "song": "Arooj Aftab",
+        "album": "Suroor",
+        "label": "Vulture Prince"
+    },
+    "32": {
+        "request": false,
+        "artists": null,
+        "song": "Blonde Redhead",
+        "album": "Hated Because of Great Qualities",
+        "label": "Melody of Certain Damaged Lemons"
+    },
+    "33": {
+        "request": false,
+        "artists": null,
+        "song": "Volumen",
+        "album": "What I Got's (All Around)",
+        "label": "Science Faction"
+    },
+    "34": {
+        "request": false,
+        "artists": null,
+        "song": "Vetiver",
+        "album": "Sister",
+        "label": "Tight Knit"
+    },
+    "35": {
+        "request": false,
+        "artists": null,
+        "song": "Sounds of Liberation",
+        "album": "New Horizions II",
+        "label": "Sounds of Liberation"
+    }
+}
