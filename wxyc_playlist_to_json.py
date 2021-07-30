@@ -30,7 +30,7 @@ def clean_file_name(sourcestring,  removestring="%:/,.\\[]<>*?"):
 
 
 
-def wxyc_playlist_parser(url, playlist_name):
+def playlist_url_parser(url, playlist_name):
     """
     Argument 1: WXYC Playlist URL
     Argument 2 (optional): Input desired JSON filename if you are parsing a playlist that is not the current live playlist. 
@@ -59,11 +59,11 @@ def wxyc_playlist_parser(url, playlist_name):
 
 
     if '/playlists/recent.html' in url:
-        return dict_formatted_content, 'live', url, playlist_name
+        return dict_formatted_content, 'live'
     elif 'playlists/radioShow?radioShowID' in url:
-        return dict_formatted_content, 'archive', url, playlist_name
-    elif 'playlists/searchPlaylists' in url:
-        return dict_formatted_content, 'search', url, playlist_name
+        return dict_formatted_content, 'archive'
+    # elif 'playlists/searchPlaylists' in url:
+    #     return dict_formatted_content, 'search' 
     else:
         print('Invalid URL')
         return None
@@ -137,7 +137,25 @@ def wxyc_archive_playlist_dict(dict_formatted_content):
 
     return music_dict
 
-# def wxyc_search_playlist_dict():
+
+# def wxyc_search_playlist_dict(dict_formatted_content):
+    counter = 0
+    music_dict = {}
+
+    for lst in dict_formatted_content:
+        music_dict[counter] = {
+            'date of show': None,
+            'artist': None,
+            'song': None,
+            'release': None,
+            'label': None
+        }
+
+        counter += 1
+
+    return music_dict
+
+
 
 
 def playlist_json_dump(music_dict, playlist_name):
@@ -147,47 +165,46 @@ def playlist_json_dump(music_dict, playlist_name):
 
 
 
-def main(url, playlist_name=f"wxyc_live_playlist {datetime.now().strftime('%m-%d-%Y_%H-%M-%S-%p')}"):
-    parser_result = wxyc_playlist_parser(url, playlist_name)
+def wxyc_playlist_to_json(url, playlist_name=f"wxyc_live_playlist {datetime.now().strftime('%m-%d-%Y_%H-%M-%S-%p')}"):
+    parser_result = playlist_url_parser(url, playlist_name)
     if parser_result == None:
         print('Something went wrong. Probably a bad URL.')
         return parser_result
     
     dict_formatted_content = parser_result[0]
     playlist_type = parser_result[1]
-    playlist_url = parser_result[2]
-    cleaned_playlist_name = parser_result[3]
     music_dict = {}
 
     if playlist_type == 'live':
         music_dict = wxyc_live_playlist_dict(dict_formatted_content)
 
-        playlist_json_dump(music_dict, cleaned_playlist_name)
+        playlist_json_dump(music_dict, playlist_name)
     elif playlist_type == 'archive':
         music_dict = wxyc_archive_playlist_dict(dict_formatted_content)
 
-        if 'wxyc_live_playlist' in cleaned_playlist_name:
-            playlist_json_dump(music_dict, f"Unnamed Archive Playlist - Downloaded {datetime.now().strftime('%m-%d-%Y_')}")
+        if 'wxyc_live_playlist' in playlist_name:
+            playlist_json_dump(music_dict, f"Unnamed Archive Playlist - Downloaded {datetime.now().strftime('%m-%d-%Y')}")
         else:
-            playlist_json_dump(music_dict, cleaned_playlist_name)
-    else:
-        pass
-        "elif for search playlist goes here"
-    
+            playlist_json_dump(music_dict, playlist_name)
+    # elif playlist_type == 'search':
+    #     music_dict = wxyc_search_playlist_dict(dict_formatted_content)
+
+    #     if 'wxyc_live_playlist' in playlist_name:
+    #         playlist_json_dump(music_dict, f"Unnamed Search Playlist - Downloaded {datetime.now().strftime('%m-%d-%Y')}")
+    #     else:
+    #         playlist_json_dump(music_dict, playlist_name)
 
 
 
     
 # Live Playlist example:
-main('http://www.wxyc.info/playlists/recent.html')
+wxyc_playlist_to_json('http://www.wxyc.info/playlists/recent.html')
 
 # Archive Playlist (Forbidden Characters): 
-main('http://wxyc.info/playlists/radioShow?radioShowID=156207', 'DJ Appa 7/18/21 3AM-6AM')
+wxyc_playlist_to_json('http://wxyc.info/playlists/radioShow?radioShowID=156207', 'DJ Appa 7/18/21 3AM-6AM')
 
 # Archive Playlist (Left Unnamed): 
-main('http://wxyc.info/playlists/radioShow?radioShowID=156207')
-
-
+wxyc_playlist_to_json('http://wxyc.info/playlists/radioShow?radioShowID=156207')
 
 
 
