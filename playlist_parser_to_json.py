@@ -1,50 +1,33 @@
 import os
 import requests
-from bs4 import BeautifulSoup
 import json
+from bs4 import BeautifulSoup
 
-def wxyc_playlist_parser():
-    html_doc = requests.get('http://www.wxyc.info/playlists/recent.html')
+def wxyc_playlist_parser(url):
+    html_doc = requests.get(url)
     soup = BeautifulSoup(html_doc.text, 'html.parser')
-
-    # print(html_doc.text)
-    # print(html_doc.encoding)
-
-    # print(soup.title)
 
     tr = soup.find_all('tr', attrs={'bgcolor': '#F3F3F3'})
 
-    data_list = []
-    new_data_list = []
+    parsed_content = []
+    dict_formatted_content = []
     music_dict = {}
 
-    # data_list = {
-    #     'empty_cell': {},
-    #     'request': {},
-    #     'song_info': {
-    #             {'artist':, 'song':, 'album':, 'label': }
-    #         }
-    #     'empty_cell_2': {}
-    # }
-
-    
     for rows in tr:
-        data_list.append(rows.contents)
+        parsed_content.append(rows.contents)
 
-    for lst in data_list:
+    for lst in parsed_content:
         for item in lst:
             if item == '\n':
                 lst.remove(item)
         
-        new_data_list.append([item.string for item in lst])
+        dict_formatted_content.append([item.string for item in lst])
     
-    print(data_list)
-
-    print(new_data_list)
+    # print(parsed_content)
+    # print(dict_formatted_content)
 
     counter = 0
-    for lst in new_data_list:
-        counter += 1
+    for lst in dict_formatted_content:
         music_dict[counter] = {
             'request': None,
             'artists': None,
@@ -62,15 +45,17 @@ def wxyc_playlist_parser():
         music_dict[counter]['album'] = lst[3]
         music_dict[counter]['label'] = lst[4]
 
+        counter += 1
 
 
-    print(music_dict)
-
-    json_object = json.dumps(music_dict, indent = 4)
-    print(json_object)
-
+    # Make sure to look at first run file to see an error we need to catch. The use of odd symbols such as A with tilde and copyright symbol.
     with open("live_playlist.json", "w") as outfile:
         json.dump(music_dict, outfile, indent=4)
+
+    return music_dict
+
+
+    
 
 
 
@@ -78,7 +63,7 @@ def wxyc_playlist_parser():
             
 
 
-wxyc_playlist_parser()
+wxyc_playlist_parser('http://www.wxyc.info/playlists/recent.html')
 
 
 
