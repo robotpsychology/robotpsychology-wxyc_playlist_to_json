@@ -1,0 +1,1146 @@
+{
+    "0": {
+        "rotation": true,
+        "artist": "YUF-O",
+        "song": "Rebuild, Recharge",
+        "release": "You Eff Ohh",
+        "label": "Superconscious Records",
+        "request": false
+    },
+    "1": {
+        "rotation": false,
+        "artist": "Daft Punk",
+        "song": "Make Love",
+        "release": "Human After All",
+        "label": null,
+        "request": false
+    },
+    "2": {
+        "rotation": true,
+        "artist": "Oneohtrix Point Never",
+        "song": "The Whether Channel",
+        "release": "Magic Onerohtrix Point Never",
+        "label": "warp",
+        "request": false
+    },
+    "3": {
+        "rotation": false,
+        "artist": "Big Thief",
+        "song": "UFOF",
+        "release": "UFOF",
+        "label": null,
+        "request": false
+    },
+    "4": {
+        "rotation": false,
+        "artist": "Pixies",
+        "song": "Bird Dream of the Olympus Mons",
+        "release": "Trompe le Monde",
+        "label": null,
+        "request": false
+    },
+    "5": {
+        "rotation": false,
+        "artist": "Ramones",
+        "song": "Cretin Hop",
+        "release": "mania",
+        "label": null,
+        "request": false
+    },
+    "6": {
+        "rotation": false,
+        "artist": "Le Tigre",
+        "song": "the the empty",
+        "release": "Le Tigre",
+        "label": null,
+        "request": false
+    },
+    "7": {
+        "rotation": false,
+        "artist": "Polvo",
+        "song": "Lazy Comet",
+        "release": "Today's Active Lifestyle",
+        "label": null,
+        "request": false
+    },
+    "8": {
+        "rotation": true,
+        "artist": "Double Vanities",
+        "song": "Headdress (Golden Bough)",
+        "release": "How Come Your Sister Doesn't Know My Name Anymore",
+        "label": "Sweet Wreath",
+        "request": false
+    },
+    "9": {
+        "rotation": true,
+        "artist": "SW.",
+        "song": "PSYcomaTIC",
+        "release": "blewLIPs",
+        "label": "Acid Test",
+        "request": false
+    },
+    "10": {
+        "rotation": false,
+        "artist": "underworld",
+        "song": "Twist",
+        "release": "A Hundred Days Off",
+        "label": null,
+        "request": false
+    },
+    "11": {
+        "rotation": false,
+        "artist": "Rex Ilusivii",
+        "song": "SNP 6",
+        "release": "Koncert SNP 1983",
+        "label": null,
+        "request": false
+    },
+    "12": {
+        "rotation": false,
+        "artist": "Lee Gamble",
+        "song": "Emu",
+        "release": "Diversions 1994-1996",
+        "label": null,
+        "request": false
+    },
+    "13": {
+        "rotation": false,
+        "artist": "Aphex Twin",
+        "song": "Film",
+        "release": "Come To Daddy",
+        "label": null,
+        "request": false
+    },
+    "14": {
+        "rotation": true,
+        "artist": "Kiat & Digital",
+        "song": "More Than One (feat. Wiesh & Isaac Aesili)",
+        "release": "Nightingale EP",
+        "label": "Defrostatica Records",
+        "request": false
+    },
+    "15": {
+        "rotation": false,
+        "artist": "Imogen Heap",
+        "song": "Goodnight and Go",
+        "release": "Speak for Yourself",
+        "label": null,
+        "request": false
+    },
+    "16": {
+        "rotation": true,
+        "artist": "Kero Kero Bonito",
+        "song": "21/04/20",
+        "release": "Civilisation I + II",
+        "label": "Polyvinyl",
+        "request": false
+    },
+    "17": {
+        "rotation": false,
+        "artist": "Maki Namekawa and Dennis Russell Davis",
+        "song": "Piano Phase",
+        "release": "Music 4 Hands",
+        "label": null,
+        "request": false
+    },
+    "18": {
+        "rotation": false,
+        "artist": "Angelo Badalamenti",
+        "song": "Blue Velvet",
+        "release": "Blue Velvet OST",
+        "label": null,
+        "request": false
+    },
+    "19": {
+        "rotation": false,
+        "artist": "Bj\u00c3\u00b6rk",
+        "song": "Losss",
+        "release": "Utopia",
+        "label": null,
+        "request": false
+    },
+    "20": {
+        "rotation": true,
+        "artist": "Dean Blunt",
+        "song": "SKETAMINE",
+        "release": "BLACK METAL 2",
+        "label": "Rough Trade",
+        "request": false
+    },
+    "21": {
+        "rotation": false,
+        "artist": "Little Annie",
+        "song": "I Think of You",
+        "release": "Short, Sweet + Dread",
+        "label": null,
+        "request": false
+    },
+    "22": {
+        "rotation": false,
+        "artist": "wings",
+        "song": "arrow through me",
+        "release": "back to the egg",
+        "label": "mpl communications",
+        "request": false
+    },
+    "23": {
+        "rotation": true,
+        "artist": "daniel bachman",
+        "song": "year of the rat",
+        "release": "Axacan",
+        "label": "Three Lobed Recordings",
+        "request": false
+    },
+    "24": {
+        "rotation": false,
+        "artist": "pixies",
+        "song": "monkey gone to heaven",
+        "release": "doolittle",
+        "label": null,
+        "request": false
+    },
+    "25": {
+        "rotation": true,
+        "artist": "moontype",
+        "song": "your mom",
+        "release": "Bodies Of Water",
+        "label": "Born Yesterday",
+        "request": false
+    },
+    "26": {
+        "rotation": false,
+        "artist": "lana del rey",
+        "song": "doin' time",
+        "release": "norman fucking rockwell",
+        "label": null,
+        "request": false
+    },
+    "27": {
+        "rotation": true,
+        "artist": "sarah louise",
+        "song": "your dreams",
+        "release": "Earth Bow",
+        "label": "Self-released",
+        "request": false
+    },
+    "28": {
+        "rotation": false,
+        "artist": "gonjasufi",
+        "song": "duet",
+        "release": "a sufi and a killer",
+        "label": "warp records",
+        "request": false
+    },
+    "29": {
+        "rotation": true,
+        "artist": "itopia",
+        "song": "sunshine love",
+        "release": "Sunshine Love",
+        "label": "Wackie's",
+        "request": false
+    },
+    "30": {
+        "rotation": false,
+        "artist": "parquet courts",
+        "song": "tenderness",
+        "release": "wide awake!",
+        "label": null,
+        "request": false
+    },
+    "31": {
+        "rotation": true,
+        "artist": "telle novella",
+        "song": "words that stay",
+        "release": "Merlynn Belle",
+        "label": "Kill Rock Stars",
+        "request": false
+    },
+    "32": {
+        "rotation": true,
+        "artist": "Clyde Maxwell with Beatrice Maxwell, Lilian Simpson, and Fannie McCullough",
+        "song": "you got to cross that river jordan",
+        "release": "Alan Lomax's American Patchwork",
+        "label": "Mississippi Records",
+        "request": false
+    },
+    "33": {
+        "rotation": false,
+        "artist": "vince guaraldi trio",
+        "song": "linus and lucy",
+        "release": "a charlie brown christmas",
+        "label": null,
+        "request": true
+    },
+    "34": {
+        "rotation": false,
+        "artist": "king krule",
+        "song": "la lune",
+        "release": "the ooz",
+        "label": "true panther sounds",
+        "request": false
+    },
+    "35": {
+        "rotation": true,
+        "artist": "perfect angels",
+        "song": "the meaning of love (feat. steve kuhn)",
+        "release": "Exit From The Ultra-World",
+        "label": "La Loi",
+        "request": false
+    },
+    "36": {
+        "rotation": false,
+        "artist": "ella fitzgerald",
+        "song": "blue skies",
+        "release": "first lady of song",
+        "label": null,
+        "request": false
+    },
+    "37": {
+        "rotation": false,
+        "artist": "black sabbath",
+        "song": "planet caravan",
+        "release": "paranoid",
+        "label": null,
+        "request": false
+    },
+    "38": {
+        "rotation": true,
+        "artist": "hailu mergia",
+        "song": "endegena",
+        "release": "Tezeta",
+        "label": "Awesome Tapes From Africa",
+        "request": false
+    },
+    "39": {
+        "rotation": false,
+        "artist": "brian jonestown massacre",
+        "song": "panic in babylon",
+        "release": "aufheben",
+        "label": null,
+        "request": true
+    },
+    "40": {
+        "rotation": true,
+        "artist": "willie dunn",
+        "song": "the pacific",
+        "release": "Creation Never Sleeps, Creation Never Dies",
+        "label": "Light In The Attic",
+        "request": false
+    },
+    "41": {
+        "rotation": false,
+        "artist": "crosby, stills, nash and young",
+        "song": "almost cut my hair",
+        "release": "deja vu",
+        "label": null,
+        "request": false
+    },
+    "42": {
+        "rotation": true,
+        "artist": "king pari",
+        "song": "come inside",
+        "release": "Come Inside",
+        "label": "PPU",
+        "request": false
+    },
+    "43": {
+        "rotation": false,
+        "artist": "clever austin",
+        "song": "blue tongue (ft. jon bap)",
+        "release": "pareidolia",
+        "label": "touching bass",
+        "request": false
+    },
+    "44": {
+        "rotation": true,
+        "artist": "nick klein + glyn maier",
+        "song": "pond harp",
+        "release": "Friendly CSA Compilation Part 1",
+        "label": "Psychic Liberation",
+        "request": false
+    },
+    "45": {
+        "rotation": false,
+        "artist": "radiohead",
+        "song": "just",
+        "release": "the bends",
+        "label": "emi records",
+        "request": false
+    },
+    "46": {
+        "rotation": true,
+        "artist": "subsonic eye",
+        "song": "fruitcake",
+        "release": "Nature Of Things",
+        "label": "self-released",
+        "request": false
+    },
+    "47": {
+        "rotation": false,
+        "artist": "ratatat",
+        "song": "magnifique",
+        "release": "magnifique",
+        "label": "xl recordings",
+        "request": false
+    },
+    "48": {
+        "rotation": true,
+        "artist": "orfeon gagarin",
+        "song": "ultima instancia",
+        "release": "La Ola Interior: Spanish Ambient and Acid Exoticism 1983-1990",
+        "label": "Les Disques Bongo Joe",
+        "request": false
+    },
+    "49": {
+        "rotation": false,
+        "artist": "spongebob and the losers",
+        "song": "ripped pants",
+        "release": "spongebob squarepants original theme highlights",
+        "label": "viacom international",
+        "request": false
+    },
+    "50": {
+        "rotation": true,
+        "artist": "cactus lee",
+        "song": "feeling light",
+        "release": "Texas Music Forever",
+        "label": "709 Recording Co.",
+        "request": false
+    },
+    "51": {
+        "rotation": false,
+        "artist": "dr. dog",
+        "song": "shadow people",
+        "release": "shame, shame",
+        "label": "anti-",
+        "request": false
+    },
+    "52": {
+        "rotation": true,
+        "artist": "kenny mann with liquid pleasure",
+        "song": "say what",
+        "release": "S/T",
+        "label": "MAD ABOUT RECORDS",
+        "request": false
+    },
+    "53": {
+        "rotation": false,
+        "artist": "fka twigs",
+        "song": "two weeks",
+        "release": "lp1",
+        "label": "young turks recordings",
+        "request": false
+    },
+    "54": {
+        "rotation": true,
+        "artist": "body meat",
+        "song": "stand by",
+        "release": "Year of the Arc",
+        "label": "Self-released",
+        "request": false
+    },
+    "55": {
+        "rotation": false,
+        "artist": "lauryn hill",
+        "song": "doo wop (that thing)",
+        "release": "the miseducation of lauryn hill",
+        "label": "ruffhouse records",
+        "request": false
+    },
+    "56": {
+        "rotation": true,
+        "artist": "cody currie (feat. eliza rose)",
+        "song": "moves",
+        "release": "ToyTonics EP",
+        "label": "Toytonics",
+        "request": false
+    },
+    "57": {
+        "rotation": false,
+        "artist": "bells atlas",
+        "song": "belly",
+        "release": "the mystic",
+        "label": "tender loving empire",
+        "request": false
+    },
+    "58": {
+        "rotation": true,
+        "artist": "dax pierson",
+        "song": "adhesion",
+        "release": "Nerve Bumps (A Queer Divine Satisfaction)",
+        "label": "Dark Entries",
+        "request": false
+    },
+    "59": {
+        "rotation": false,
+        "artist": "foster the people",
+        "song": "don't stop (color on the walls)",
+        "release": "torches",
+        "label": "sony music entertainment",
+        "request": false
+    },
+    "60": {
+        "rotation": true,
+        "artist": "arlo parks",
+        "song": "black dog",
+        "release": "Collapsed In Sunbeams",
+        "label": "Transgressive",
+        "request": false
+    },
+    "61": {
+        "rotation": false,
+        "artist": "morgan delt",
+        "song": "some sunsick day",
+        "release": "phaze zero",
+        "label": "sub pop",
+        "request": false
+    },
+    "62": {
+        "rotation": false,
+        "artist": "New Kingdom",
+        "song": "Unicorns were Horses",
+        "release": "Paradise Don't Come Cheap",
+        "label": "Island Records",
+        "request": false
+    },
+    "63": {
+        "rotation": false,
+        "artist": "Digital Underground",
+        "song": "The Return of the Crazy One (Radio Mix)",
+        "release": null,
+        "label": "Tommy Boy",
+        "request": false
+    },
+    "64": {
+        "rotation": false,
+        "artist": "Cloud Becomes Your Hand",
+        "song": "Bridge of Ignorance Returns",
+        "release": "Rest in Fleas",
+        "label": "Northern Spy",
+        "request": false
+    },
+    "65": {
+        "rotation": false,
+        "artist": "Kamal Ahmed & Mehnaz",
+        "song": "Tere Mere Larr Gaye",
+        "release": "Disco Dildar",
+        "label": "Finders Keepers",
+        "request": false
+    },
+    "66": {
+        "rotation": true,
+        "artist": "The Christian Harmonizers",
+        "song": "Troubles of the World",
+        "release": "Greg Belson's Divine Funk",
+        "label": "Cultures Of Soul",
+        "request": false
+    },
+    "67": {
+        "rotation": true,
+        "artist": "Nathan Salsberg",
+        "song": "VIII (All That Were Calculated Have Passed)",
+        "release": "Landwerk No. 2",
+        "label": "Self-released",
+        "request": false
+    },
+    "68": {
+        "rotation": false,
+        "artist": "Pixies",
+        "song": "Bird Dream of the Olympus Mons",
+        "release": "Trompe le Monde",
+        "label": "4AD",
+        "request": false
+    },
+    "69": {
+        "rotation": true,
+        "artist": "Spirit Of The Beehive",
+        "song": "Wake Up (In Rotation)",
+        "release": "ENTERTAINMENT, DEATH",
+        "label": "Saddle Creek",
+        "request": false
+    },
+    "70": {
+        "rotation": true,
+        "artist": "Tommy Jarell",
+        "song": "Old Reuben",
+        "release": "Alan Lomax's American Patchwork",
+        "label": "Mississippi Records",
+        "request": false
+    },
+    "71": {
+        "rotation": false,
+        "artist": "Bill Monroe and his Bluegrass Boys",
+        "song": "Roll On Buddy",
+        "release": "Bill Monroe and his Blue Grass Boys",
+        "label": "JSP Records",
+        "request": false
+    },
+    "72": {
+        "rotation": false,
+        "artist": "Various Artists",
+        "song": "Soleares Cruzadas de Alcala y Jerez",
+        "release": "The History of Cante Flamenco",
+        "label": "Everest",
+        "request": true
+    },
+    "73": {
+        "rotation": false,
+        "artist": "Ted Nash Quartet",
+        "song": "Necessary Risks",
+        "release": "Out of This World",
+        "label": "Mapleshade",
+        "request": false
+    },
+    "74": {
+        "rotation": true,
+        "artist": "Willie Dunn",
+        "song": "Peruvian Dream (Part 1)",
+        "release": "Creation Never Sleeps, Creation Never Dies",
+        "label": "Light In The Attic",
+        "request": false
+    },
+    "75": {
+        "rotation": false,
+        "artist": "Crying",
+        "song": "Well and Spring",
+        "release": "Beyond the Fleeting Gates",
+        "label": "Run for Cover",
+        "request": false
+    },
+    "76": {
+        "rotation": false,
+        "artist": "Pauline Oliveros",
+        "song": "IV of IV",
+        "release": "Early Electronic Work 1959-66",
+        "label": "Sub Rosa",
+        "request": false
+    },
+    "77": {
+        "rotation": true,
+        "artist": "Japanese Breakfast",
+        "song": "Slide Tackle",
+        "release": "Jubilee",
+        "label": "Dead Oceans",
+        "request": false
+    },
+    "78": {
+        "rotation": false,
+        "artist": "Christian Fennesz & Jim O'Rourke",
+        "song": "Wouldn't Want to Be Swept Away",
+        "release": "It's Hard For Me To Say I'm Sorry",
+        "label": "Editions Mego",
+        "request": false
+    },
+    "79": {
+        "rotation": false,
+        "artist": "Bill Loko",
+        "song": "Nen Lambo",
+        "release": "Pop Makossa: The Invasive Dance Bet of Cameroon 1976-1984",
+        "label": "Analog Africa",
+        "request": false
+    },
+    "80": {
+        "rotation": false,
+        "artist": "XTC",
+        "song": "Generals and Majors",
+        "release": "Black Sea",
+        "label": "Epic",
+        "request": true
+    },
+    "81": {
+        "rotation": false,
+        "artist": "Davell Crawford",
+        "song": "Going Back to Louisiana",
+        "release": "My Gift To You",
+        "label": "Basin Street",
+        "request": false
+    },
+    "82": {
+        "rotation": false,
+        "artist": "Super Chron Flight Brothers",
+        "song": "To Catch A Thief",
+        "release": "Emergency Powers",
+        "label": "Green Streets",
+        "request": false
+    },
+    "83": {
+        "rotation": true,
+        "artist": "Jabir",
+        "song": "vuelo por las alturas de xauen",
+        "release": "La Ola Interior: Spanish Ambient and Acid Exoticism 1983-1990",
+        "label": "Les Disques Bongo Joe",
+        "request": false
+    },
+    "84": {
+        "rotation": false,
+        "artist": "Amnesty",
+        "song": "Free Your Mind",
+        "release": "Cold Heat Heavy Funk Rarities 1968-1974",
+        "label": "Now Again",
+        "request": false
+    },
+    "85": {
+        "rotation": true,
+        "artist": "Female Species",
+        "song": "You Need Me",
+        "release": "Tale Of My Lost Love",
+        "label": "Numero Group",
+        "request": false
+    },
+    "86": {
+        "rotation": true,
+        "artist": "Sunburned Hand of a Man",
+        "song": "Solved",
+        "release": "Pick A Day to Die",
+        "label": "Three Lobed",
+        "request": false
+    },
+    "87": {
+        "rotation": false,
+        "artist": "John Cale, Lou Reed",
+        "song": "Trouble with Classicists",
+        "release": "Seducing Down the Door",
+        "label": "Rhino",
+        "request": false
+    },
+    "88": {
+        "rotation": true,
+        "artist": "YL Hooi",
+        "song": "A3: E Park",
+        "release": "Untitled",
+        "label": "Efficient Space",
+        "request": false
+    },
+    "89": {
+        "rotation": false,
+        "artist": "Johnny Flynn & Laura Marling",
+        "song": "The Water",
+        "release": null,
+        "label": null,
+        "request": true
+    },
+    "90": {
+        "rotation": true,
+        "artist": "Adrienne Lenker",
+        "song": "America is Listening",
+        "release": "Songs",
+        "label": "4AD",
+        "request": false
+    },
+    "91": {
+        "rotation": false,
+        "artist": "Eels",
+        "song": "I Like Birds",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "92": {
+        "rotation": true,
+        "artist": "Ben Seretan",
+        "song": "11pm Sudden Thunderstorms",
+        "release": "Cicada Waves",
+        "label": "NNA Tapes",
+        "request": false
+    },
+    "93": {
+        "rotation": false,
+        "artist": "Nick Cave & Shane MacGowan",
+        "song": "What A Wonderful World",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "94": {
+        "rotation": true,
+        "artist": "Bobby Lee",
+        "song": "Impregnated by Drops of Rainbow",
+        "release": "Origin Myths",
+        "label": "Tompkins Square",
+        "request": false
+    },
+    "95": {
+        "rotation": false,
+        "artist": "boygenius",
+        "song": "Me & My Dog",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "96": {
+        "rotation": false,
+        "artist": "Guest of the Government",
+        "song": "Admiral Fallow",
+        "release": null,
+        "label": null,
+        "request": true
+    },
+    "97": {
+        "rotation": true,
+        "artist": "Arlo Parks",
+        "song": "Eugene (clean edition)",
+        "release": "Collapsed In Sunbeams",
+        "label": "Transgressive",
+        "request": false
+    },
+    "98": {
+        "rotation": false,
+        "artist": "Al Green",
+        "song": "How Can You Mend A Broken Heart",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "99": {
+        "rotation": false,
+        "artist": "Courtney Love",
+        "song": "Mother",
+        "release": null,
+        "label": null,
+        "request": true
+    },
+    "100": {
+        "rotation": false,
+        "artist": "The Jesus and Mary Chain",
+        "song": "Happy When It Rains",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "101": {
+        "rotation": false,
+        "artist": "Van Morrison",
+        "song": "Brown Eyed Girl",
+        "release": null,
+        "label": null,
+        "request": true
+    },
+    "102": {
+        "rotation": false,
+        "artist": "Beach House",
+        "song": "Walk In The Park",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "103": {
+        "rotation": true,
+        "artist": "Perfect Angels",
+        "song": "All Love",
+        "release": "Exit From The Ultra-World",
+        "label": "La Loi",
+        "request": false
+    },
+    "104": {
+        "rotation": false,
+        "artist": "Sharon Van Etten ft. Norah Jones",
+        "song": "Seventeen",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "105": {
+        "rotation": false,
+        "artist": "Yumi Zouma",
+        "song": "The Brae",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "106": {
+        "rotation": true,
+        "artist": "Bill Fox",
+        "song": "all dried up",
+        "release": "Transit Byzantium",
+        "label": "A Scat Records",
+        "request": false
+    },
+    "107": {
+        "rotation": false,
+        "artist": "Fiona Apple",
+        "song": "I Know",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "108": {
+        "rotation": false,
+        "artist": "This Is The Kit",
+        "song": "This Is What You Did",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "109": {
+        "rotation": true,
+        "artist": "Female Species",
+        "song": "Black Is Black",
+        "release": "Tale Of My Lost Love",
+        "label": "Numero Group",
+        "request": false
+    },
+    "110": {
+        "rotation": false,
+        "artist": "Blake Mills",
+        "song": "Wintersong",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "111": {
+        "rotation": false,
+        "artist": "Jen Cloher",
+        "song": "Sensory Memory",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "112": {
+        "rotation": false,
+        "artist": "Dion",
+        "song": "Only You Know",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "113": {
+        "rotation": true,
+        "artist": "Henri Salvador",
+        "song": "Le temps des cons",
+        "release": "Homme Studio 1970-1975",
+        "label": "Born Bad Records",
+        "request": false
+    },
+    "114": {
+        "rotation": false,
+        "artist": "Lucius",
+        "song": "Right Down The Line",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "115": {
+        "rotation": false,
+        "artist": "Lola Kirke",
+        "song": "Monster",
+        "release": null,
+        "label": null,
+        "request": false
+    },
+    "116": {
+        "rotation": true,
+        "artist": "Johnny Flynn & Robert MacFarlane",
+        "song": "Gods And Monsters",
+        "release": "Lost In The Cedar Wood",
+        "label": "Transgressive",
+        "request": false
+    },
+    "117": {
+        "rotation": true,
+        "artist": "Bella Boo",
+        "song": "Don\u00e2??t Stop",
+        "release": "Let's Go Out",
+        "label": "Running Back",
+        "request": false
+    },
+    "118": {
+        "rotation": true,
+        "artist": "Nilotika Cultural Ensemble",
+        "song": "A1",
+        "release": "Ejokawulida",
+        "label": "Nyege Nyege Tapes",
+        "request": false
+    },
+    "119": {
+        "rotation": false,
+        "artist": "Adiobi",
+        "song": "Pirate",
+        "release": "gao rap: hip hop from northern mali",
+        "label": "Sahel Sounds",
+        "request": false
+    },
+    "120": {
+        "rotation": true,
+        "artist": "Sola",
+        "song": "Oye Mama, Oye Papa",
+        "release": "S/T",
+        "label": "Be With Records",
+        "request": false
+    },
+    "121": {
+        "rotation": false,
+        "artist": "Rupa",
+        "song": "East West Shuffle",
+        "release": "Disco Jazz",
+        "label": "Numero Group",
+        "request": false
+    },
+    "122": {
+        "rotation": false,
+        "artist": "Samir & Abboud",
+        "song": "Games",
+        "release": "Habibi Funk 007: An Eclectic Selection of Music from the Arab World",
+        "label": "Habibi Funk",
+        "request": false
+    },
+    "123": {
+        "rotation": true,
+        "artist": "Avo Haroutiounian",
+        "song": "Tears On My Eyes",
+        "release": "Silk Road: Journey Of The Armenian Diaspora 1971-1982",
+        "label": "Terrestrial Funk",
+        "request": false
+    },
+    "124": {
+        "rotation": false,
+        "artist": "Hallelujah Chicken Run Band",
+        "song": "Gore Iro",
+        "release": "Take One",
+        "label": "Analog Africa",
+        "request": false
+    },
+    "125": {
+        "rotation": false,
+        "artist": "Puzzle People",
+        "song": "Reach For the Truth",
+        "release": "Eccentric Soul: Sitting In The Park",
+        "label": "Numero Group",
+        "request": false
+    },
+    "126": {
+        "rotation": false,
+        "artist": "Llyod Williams",
+        "song": "Is It Because I'm Black",
+        "release": "Back to Black",
+        "label": "Lo Recordings",
+        "request": false
+    },
+    "127": {
+        "rotation": true,
+        "artist": "Spencer Cullum's Coin Collection",
+        "song": "My Protector",
+        "release": "S/T",
+        "label": "yk records",
+        "request": false
+    },
+    "128": {
+        "rotation": false,
+        "artist": "Willy Mitchell",
+        "song": "Call of the Moose",
+        "release": "Native North America - Aboriginal Folk, Rock, and Country, Vol. 1",
+        "label": "Light in the Attic",
+        "request": false
+    },
+    "129": {
+        "rotation": false,
+        "artist": "Andy White",
+        "song": "The Walking Wounded",
+        "release": "Reality Row/Rembrandt Hat",
+        "label": "Decca",
+        "request": false
+    },
+    "130": {
+        "rotation": true,
+        "artist": "Mark Fry",
+        "song": "The Witch",
+        "release": "Dreaming With Alice",
+        "label": "Now-Again",
+        "request": false
+    },
+    "131": {
+        "rotation": false,
+        "artist": "Psychedelic Aliens",
+        "song": "Hijacking",
+        "release": "Psycho African Beat",
+        "label": "Voodoo Funk Academy",
+        "request": false
+    },
+    "132": {
+        "rotation": true,
+        "artist": "ARK",
+        "song": "In the Desert",
+        "release": "St. Albert's Dream Vol. 2: Lucid Electric Prophet",
+        "label": "Lysergic Sound Distributions",
+        "request": false
+    },
+    "133": {
+        "rotation": true,
+        "artist": "Chainletter",
+        "song": "Seal Song",
+        "release": "Maison Fauna Field Guide 1",
+        "label": "Maison Fauna",
+        "request": false
+    },
+    "134": {
+        "rotation": false,
+        "artist": "Tiny Ruins",
+        "song": "Olympic Girls",
+        "release": "Olympic Girls",
+        "label": "Ba Da Bing",
+        "request": false
+    },
+    "135": {
+        "rotation": true,
+        "artist": "Chris Brokaw",
+        "song": "Puritan",
+        "release": "Puritan",
+        "label": "12XU",
+        "request": false
+    },
+    "136": {
+        "rotation": false,
+        "artist": "Girlpool",
+        "song": "All Blacked Out",
+        "release": "What Chaos is Imaginary",
+        "label": "ANTI-",
+        "request": false
+    },
+    "137": {
+        "rotation": true,
+        "artist": "Erika de Casier",
+        "song": "No Butterflies, No Nothing",
+        "release": "Sensational",
+        "label": "4AD",
+        "request": false
+    },
+    "138": {
+        "rotation": false,
+        "artist": "Neko Case",
+        "song": "Star Witness",
+        "release": "Fox Confessor Brings the Flood",
+        "label": "ANTI-",
+        "request": false
+    },
+    "139": {
+        "rotation": true,
+        "artist": "Bobby Lee",
+        "song": "The Badger and the Locust",
+        "release": "Origin Myths",
+        "label": "Tompkins Square",
+        "request": false
+    },
+    "140": {
+        "rotation": false,
+        "artist": "Beach House",
+        "song": "Chariot",
+        "release": "B Sides & Rarities",
+        "label": "Sub Pop Records",
+        "request": false
+    },
+    "141": {
+        "rotation": false,
+        "artist": "Beach House",
+        "song": "Drunk In La",
+        "release": "7",
+        "label": "Sub Pop Records",
+        "request": false
+    },
+    "142": {
+        "rotation": false,
+        "artist": "Beach House",
+        "song": "Norway (iTunes Session Remix)",
+        "release": "B Sides & Rarities",
+        "label": "Sub Pop",
+        "request": false
+    }
+}
